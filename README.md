@@ -1,2 +1,2 @@
 # People-counting-in-Depth-images
-Lab from perception and IA
+Lab3 of perception and IA
